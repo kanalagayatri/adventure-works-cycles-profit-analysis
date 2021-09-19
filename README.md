@@ -1,4 +1,4 @@
-# Adventure works cycle - Profit Analysis - 
+# Adventure works cycle - Profit Analysis
 
 ## Key Takeaways
 1. The decline in average profit starts aproximately from 2006-12.
